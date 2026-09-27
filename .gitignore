@@ -1,0 +1,7 @@
+/build/
+/dist/
+/nbproject/private/
+/server_received/
+/client_downloads/
+ngrok.exe
+*.zip
